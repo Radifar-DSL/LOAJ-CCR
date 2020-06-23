@@ -17,3 +17,15 @@ List of Open Access Journal for Computational Chemistry Research. Especially for
 **APC or Publishing Fee** - Until now, June 23, 2020 it still free
 
 **Note** - Fairly new
+
+<!---
+Copy and Paste the Template here
+
+## 1. []()
+
+**Description** - 
+
+**APC or Publishing Fee** - 
+
+**Note** - 
+-->
