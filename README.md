@@ -28,6 +28,23 @@ JORS also publishes full-length research papers that cover different aspects of 
 
 **Note** - 
 
+## 4. [Journal of Cheminformatics (JCheminf part of Springer Nature)](https://jcheminf.biomedcentral.com/)
+
+**Description** - Journal of Cheminformatics is an open-access journal publishing original peer-reviewed research in all aspects of cheminformatics and molecular modelling.
+
+Coverage includes, but is not limited to:
+- chemical information systems, software and databases, and molecular modelling
+- chemical structure representations and their use in structure, substructure, and similarity searching of chemical substance and chemical reaction databases
+- computer and molecular graphics, computer-aided molecular design, expert systems, QSAR, and data mining techniques
+
+**APC or Publishing Fee** - £1280.00/$2000.00/€1630.00 for each article accepted for publication, plus VAT or local taxes where applicable
+
+**Note** - Speed
+- 68 days to first decision for reviewed manuscripts only
+- 41 days to first decision for all manuscripts
+- 147 days from submission to acceptance
+- 12 days from acceptance to publication
+
 <!---
 Copy and Paste the Template here
 
