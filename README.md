@@ -45,6 +45,14 @@ Coverage includes, but is not limited to:
 - 147 days from submission to acceptance
 - 12 days from acceptance to publication
 
+## 5. [PLOS Computational Biology](https://journals.plos.org/ploscompbiol/)
+
+**Description** - By making connections through the application of computational methods among disparate areas of biology, PLOS Computational Biology provides substantial new insight into living systems at all scales, from the nano to the macro, and across multiple disciplines, from molecular science, neuroscience and physiology to ecology and population biology.
+
+**APC or Publishing Fee** - $2,500 USD
+
+**Note** - 
+
 <!---
 Copy and Paste the Template here
 
